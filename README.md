@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rajuXkiran
-- 👀 I’m interested in Security Stuff
-- 🌱 I’m currently learning DevSecOps 
-- 💞️ I’m looking to collaborate on Security Automation
+- 👋 Hi, I’m Kiran Dachiraju
+- 👀 I’m interested in Security Stuff...
+- 🌱 I’m currently learning DevSecOps...
+- 💞️ I’m looking to collaborate on Security Automation...
 - 📫 How to reach me mail at infosecguy92@protonmail.com
 
 <!---
